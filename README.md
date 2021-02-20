@@ -4,4 +4,4 @@
   
  ## H2 **Description** 
  
- ### H3 Tip calculator primary function is to calculate total payment amount including *tip* and total amount owed *per person* based on input
+ ### H3 Tip calculator primary function is to calculate total payment amount including *tip* and total amount owed *per person* based on user input
